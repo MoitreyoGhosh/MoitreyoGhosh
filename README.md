@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moitreyoghosh" alt="moitreyoghosh" /></a> </p>
 
-- 🌱 I’m currently learning **react,css,C**
+- 🌱 I’m currently learning **react,C**
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
-- 💬 Ask me about **java, C, html, css**
+- 💬 Ask me about **JAVA, C, HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **moitreyoghosh@gmail.com**
 
