@@ -38,6 +38,6 @@
 </p>
 
 
-<div> <aside><img src="https://github-readme-stats.vercel.app/api/top-langs?username=moitreyoghosh&show_icons=true&locale=en&layout=compact" alt="moitreyoghosh" /></aside>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=moitreyoghosh&show_icons=true&locale=en" alt="moitreyoghosh" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=moitreyoghosh&" alt="moitreyoghosh" /></div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moitreyoghosh&show_icons=true&locale=en&layout=compact" alt="moitreyoghosh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=moitreyoghosh&show_icons=true&locale=en" alt="moitreyoghosh" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=moitreyoghosh&" alt="moitreyoghosh" /></p>
